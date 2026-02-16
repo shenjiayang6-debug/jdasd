@@ -1,0 +1,5 @@
+{
+  "name": "AI Lucky Spin Wheel",
+  "description": "An interactive, animated fortune wheel where you can customize prizes or generate creative themes using Gemini AI.",
+  "requestFramePermissions": []
+}
